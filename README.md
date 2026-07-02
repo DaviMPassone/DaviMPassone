@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoPassone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMPassone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoPassone&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
