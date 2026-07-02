@@ -13,7 +13,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,csharp,c,bat" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,c" />
 </div>
 
 ---
